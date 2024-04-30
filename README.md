@@ -7,8 +7,9 @@ Plutôt curieux et travailleur, j'essaie de découvrir un peu tout ce qui touche
 
 
 ## Que sais-je faire ?
-Actuellement, je maîtrise :
+Actuellement, je maîtrise comme langages :
 * le C
+* le SQL
 * le HTML
 * le CSS
 * le PHP

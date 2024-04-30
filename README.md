@@ -1,16 +1,23 @@
-### Hi there 👋
+### Salut 👋
 
-<!--
-**ewixaw/ewixaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Qui suis-je ?
+Je m'appelle Maxime et je suis actuellement étudiant en programmation informatique.
+Plutôt curieux et travailleur, j'essaie de découvrir un peu tout ce qui touche à l'informatique.
 
-Here are some ideas to get you started:
+## Que sais-je faire ?
+Actuellement, je maîtrise :
+* Le HTML
+* Le CSS
+* Le PHP
+* Le Javascript
+* Le C
+* Un peu d'arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qu'est qu'il se passe ici ?
+Je présente ici les différents projets que nous avons pu réaliser en cours et que je pense avoir personnelement réussi,
+
+N'hésitez pas jetez un petit coup d'oeil à ceux-ci !
+
+## Mon CV
+
+![Image de mon CV](/mon_cv.png)

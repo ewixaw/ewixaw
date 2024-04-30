@@ -3,23 +3,23 @@
 
 ## Qui suis-je ?
 Je m'appelle Maxime et je suis actuellement étudiant en programmation informatique.
-Plutôt curieux et travailleur, j'essaie de découvrir un peu tout ce qui touche à l'informatique.
+Plutôt curieux et travailleur, j'essaie de découvrir un peu tout ce qui touche à la programmation.
 
 
 ## Que sais-je faire ?
 Actuellement, je maîtrise :
-* Le HTML
-* Le CSS
-* Le PHP
-* Le Javascript
-* Le C
-* Un peu d'arduino
+* le HTML
+* le CSS
+* le PHP
+* le Javascript
+* le C
+* un peu d'arduino
 
 
 ## Qu'est qu'il se passe ici ?
-Je présente ici les différents projets que nous avons pu réaliser en cours et que je pense avoir personnellement réussi,
+Je présente ici les différents projets que nous avons pu réaliser en cours et que je trouve personnellement réussi,
 
-N'hésitez pas jetez un petit coup d'oeil à ceux-ci !
+N'hésitez pas jeter un petit coup d'oeil à ceux-ci !
 
 
 ## Mon CV

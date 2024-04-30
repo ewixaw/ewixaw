@@ -8,12 +8,13 @@ Plutôt curieux et travailleur, j'essaie de découvrir un peu tout ce qui touche
 
 ## Que sais-je faire ?
 Actuellement, je maîtrise :
+* le C
 * le HTML
 * le CSS
 * le PHP
 * le Javascript
-* le C
-* un peu d'arduino
+* le python
+* et un peu d'arduino
 
 
 ## Qu'est qu'il se passe ici ?

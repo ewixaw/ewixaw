@@ -24,6 +24,12 @@ Je présente ici les différents projets que nous avons pu réaliser en cours et
 N'hésitez pas jeter un petit coup d'oeil à ceux-ci !
 
 
+## Et mon avenir ?
+Pour l'instant étudiant en programmation informatique, je souhaite tourner la fin de mes études et ma carrière vers la cybersécurité.
+
+Même si je n'ai pas encore beaucoup d'expérience dans ce sujet, je continue à faire des recherches et à en apprendre plus.
+
+
 ## Mon CV
 
 ![Image de mon CV](/mon_cv.png)
